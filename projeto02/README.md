@@ -19,9 +19,12 @@
 ### Protoboard:
     Componente utilizado para simplificar a prototipagem do circuito como um todo
 
+### Buzzer:
+    Componente para produzirmos
+    som com a corrente elétrica
+
 ### Resistor (opcional para regulagem do som):
-    Utilizaremos o resistor para limitar a quantidade de corrente que passará pelo nosso
-    LED, de forma a não queimá-lo
+    Utilizaremos o resistor para limitar a quantidade de corrente que passará pelo nosso buzzer, de forma a regular o som de saída do mesmo
 
 ### Sensor infravermelho:
     Utilizaremos um sensor infravermelho para
