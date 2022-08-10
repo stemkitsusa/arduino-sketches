@@ -1,7 +1,9 @@
 # Projeto 02 - Alarme Simples
 ### Descrição:
     Este projeto inicial tem como objetivo explicar alguns conceitos
-    de eletrônica aos alunos, ao praticarmos acendendo um LED
+    de eletrônica aos alunos, ao praticarmos ao desenvolver
+    um sensor simples com
+    infravermelho
 
 ## Tópicos:
 
